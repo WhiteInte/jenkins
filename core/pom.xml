@@ -42,6 +42,7 @@ THE SOFTWARE.
     <hamcrest.version>2.2</hamcrest.version>
     <junit.jupiter.version>5.6.2</junit.jupiter.version>
   </properties>
+  
 
   <dependencyManagement>
     <dependencies>
